@@ -1,11 +1,4 @@
-This repository acts as a release port for the DynamicTimer, as the main repository is private.
-
-
-
-
-
-
-
+![Icon](Images\timer3_big_thinoutline.png)
 ----------------------
 Dynamic Timer : by SolarPH / MARCsystems
 
