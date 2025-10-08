@@ -1,7 +1,9 @@
 <p align="center">
   <img src="Images/timer3_big_thinoutline.png" alt="Icon" width=25% />
 </p>
-----------------------
+
+---
+ 
 Dynamic Timer : by SolarPH / MARCsystems
 
 Features:
@@ -10,7 +12,6 @@ Features:
   - Carry-Over to Next : A timer setting that is best paired with "Auto-Stop on Zero" and "Start Next on Stop". This ensures that the excess value from the previous timer will be accounted on the next timer in the sequence
   - Delta-Time Adjustment : This application uses Delta-Time formula to ensure that every millisecond counts.
   - Time View Mode : Choose the view between "H:MM:SS", "MM:SS", or "SS". You can even add the three-digit millisecond on your timer.
-  - OBS Overlay Element : A zero-visibility window that only OBS can detect via Windows Capture with Capture Mode "Windows 10 (1903 and up)" for transparency capture.
 
 Controls:
   - Start/Pause and Stop : Basic timer operations.
