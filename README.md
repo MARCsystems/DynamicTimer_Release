@@ -1,4 +1,4 @@
-![Icon](Images\timer3_big_thinoutline.png)
+![Icon](Images/timer3_big_thinoutline.png)
 ----------------------
 Dynamic Timer : by SolarPH / MARCsystems
 
