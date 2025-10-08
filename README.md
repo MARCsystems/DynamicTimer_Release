@@ -1,4 +1,6 @@
-![Icon](Images/timer3_big_thinoutline.png)
+<p align="center">
+  <img src="Images/timer3_big_thinoutline.png" alt="Icon" width=25% />
+</p>
 ----------------------
 Dynamic Timer : by SolarPH / MARCsystems
 
