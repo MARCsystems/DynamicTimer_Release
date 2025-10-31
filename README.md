@@ -6,10 +6,9 @@
 
 <details>
 <summary>📄 End User License Agreement (click to expand)</summary>
-Effective Date: November 01, 2025
-Last Updated: November 01, 2025
-
-Effective Date: November 01, 2025Last Updated: November 01, 2025
+Effective Date: November 01, 2025<br>
+Last Updated: November 01, 2025<br>
+<br>
 This End User License Agreement ("Agreement") is a legal agreement between you ("User") and MARCsystems/SolarPH ("Developer") regarding the use of the Dynamic Timer Application ("Software")
 
 ## 1\. License Grant
